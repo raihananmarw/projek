@@ -1,0 +1,734 @@
+[2025-02-21 17:09:17] Memulai pembersihan temporary files...
+[2025-02-21 17:09:17] Gagal menghapus C:\Users\sumarno\AppData\Local\Temp\154ccf72-cf8f-43ab-b427-ddbef0f4e456.tmp: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\sumarno\\AppData\\Local\\Temp\\154ccf72-cf8f-43ab-b427-ddbef0f4e456.tmp'
+[2025-02-21 17:09:17] Gagal menghapus C:\Users\sumarno\AppData\Local\Temp\60213203-f1e7-4d81-86ac-a3b9df1129a9.tmp: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\sumarno\\AppData\\Local\\Temp\\60213203-f1e7-4d81-86ac-a3b9df1129a9.tmp'
+[2025-02-21 17:09:17] Folder dihapus: C:\Users\sumarno\AppData\Local\Temp\6236509B-5B73-4A25-A941-ECB57E1CA79F
+[2025-02-21 17:09:17] Gagal menghapus C:\Users\sumarno\AppData\Local\Temp\685df972-b8a5-4ace-bac3-59b8a7e3b6b7.tmp: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\sumarno\\AppData\\Local\\Temp\\685df972-b8a5-4ace-bac3-59b8a7e3b6b7.tmp'
+[2025-02-21 17:09:17] Gagal menghapus C:\Users\sumarno\AppData\Local\Temp\7cec7335-748c-4343-ac3f-e45dc3fd180b.tmp: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\sumarno\\AppData\\Local\\Temp\\7cec7335-748c-4343-ac3f-e45dc3fd180b.tmp'
+[2025-02-21 17:09:17] Gagal menghapus C:\Users\sumarno\AppData\Local\Temp\8acf33d5-d072-4ce7-b51d-85647fbd290e.tmp: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\sumarno\\AppData\\Local\\Temp\\8acf33d5-d072-4ce7-b51d-85647fbd290e.tmp'
+[2025-02-21 17:09:17] Gagal menghapus C:\Users\sumarno\AppData\Local\Temp\9582d35d-83ab-4d87-baa4-f51bc8104581.tmp: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\sumarno\\AppData\\Local\\Temp\\9582d35d-83ab-4d87-baa4-f51bc8104581.tmp'
+[2025-02-21 17:09:17] Folder dihapus: C:\Users\sumarno\AppData\Local\Temp\A4B2040C-F500-48EC-8307-150C5692DA43
+[2025-02-21 17:09:17] Folder dihapus: C:\Users\sumarno\AppData\Local\Temp\A79434BD-03DF-463B-AE43-2FD4D392D8B3
+[2025-02-21 17:09:17] Folder dihapus: C:\Users\sumarno\AppData\Local\Temp\B1B52C4E-E751-48F4-AE08-0CCF868BF90C
+[2025-02-21 17:09:17] Folder dihapus: C:\Users\sumarno\AppData\Local\Temp\B3AE569D-36BE-47A9-90F3-E1047A44FFAA
+[2025-02-21 17:09:17] Folder dihapus: C:\Users\sumarno\AppData\Local\Temp\D55C4052-1ABE-4C62-9692-24C9DDC0B267
+[2025-02-21 17:09:17] Gagal menghapus C:\Users\sumarno\AppData\Local\Temp\dd10afab-7d98-4cbe-ae1d-9b38b499bd3e.tmp: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\sumarno\\AppData\\Local\\Temp\\dd10afab-7d98-4cbe-ae1d-9b38b499bd3e.tmp'
+[2025-02-21 17:09:17] Folder dihapus: C:\Users\sumarno\AppData\Local\Temp\F9CA9159-966C-4E48-8010-FFF9B95B68B3
+[2025-02-21 17:09:17] Folder dihapus: C:\Users\sumarno\AppData\Local\Temp\FE628A3C-3689-482F-9DDA-36403AD885C3
+[2025-02-21 17:09:19] Pembersihan temporary files selesai.
+[2025-02-21 17:11:46] Menutup browser sebelum membersihkan cache...
+[2025-02-21 17:11:46] Menutup chrome
+[2025-02-21 17:11:46] Menutup chrome
+[2025-02-21 17:11:46] Menutup chrome
+[2025-02-21 17:11:46] Menutup chrome
+[2025-02-21 17:11:46] Menutup chrome
+[2025-02-21 17:11:46] Menutup chrome
+[2025-02-21 17:11:46] Menutup chrome
+[2025-02-21 17:11:46] Menutup chrome
+[2025-02-21 17:11:46] Menutup chrome
+[2025-02-21 17:11:46] Menutup chrome
+[2025-02-21 17:11:46] Memulai pembersihan cache browser...
+[2025-02-21 17:11:50] Pembersihan cache browser selesai.
+[2025-02-21 17:11:54] Menutup browser sebelum membersihkan cache...
+[2025-02-21 17:11:54] Memulai pembersihan cache browser...
+[2025-02-21 17:11:56] Pembersihan cache browser selesai.
+[2025-02-21 17:14:41] Memulai pembersihan temporary files...
+[2025-02-21 17:14:41] Gagal menghapus C:\Users\sumarno\AppData\Local\Temp\007f4542-d45f-4513-a398-5d21d580f2c6.tmp: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\sumarno\\AppData\\Local\\Temp\\007f4542-d45f-4513-a398-5d21d580f2c6.tmp'
+[2025-02-21 17:14:41] Gagal menghapus C:\Users\sumarno\AppData\Local\Temp\1d6794a1-7f37-44aa-a4bc-03b4e4ee69b0.tmp: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\sumarno\\AppData\\Local\\Temp\\1d6794a1-7f37-44aa-a4bc-03b4e4ee69b0.tmp'
+[2025-02-21 17:14:41] Gagal menghapus C:\Users\sumarno\AppData\Local\Temp\26ce91d1-98f8-4884-b704-80e3702886d1.tmp: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\sumarno\\AppData\\Local\\Temp\\26ce91d1-98f8-4884-b704-80e3702886d1.tmp'
+[2025-02-21 17:14:41] Folder dihapus: C:\Users\sumarno\AppData\Local\Temp\6236509B-5B73-4A25-A941-ECB57E1CA79F
+[2025-02-21 17:14:41] Gagal menghapus C:\Users\sumarno\AppData\Local\Temp\67bcdae0-cf5b-44aa-a709-1d423031e198.tmp: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\sumarno\\AppData\\Local\\Temp\\67bcdae0-cf5b-44aa-a709-1d423031e198.tmp'
+[2025-02-21 17:14:41] Folder dihapus: C:\Users\sumarno\AppData\Local\Temp\A4B2040C-F500-48EC-8307-150C5692DA43
+[2025-02-21 17:14:41] Folder dihapus: C:\Users\sumarno\AppData\Local\Temp\A79434BD-03DF-463B-AE43-2FD4D392D8B3
+[2025-02-21 17:14:41] Folder dihapus: C:\Users\sumarno\AppData\Local\Temp\B1B52C4E-E751-48F4-AE08-0CCF868BF90C
+[2025-02-21 17:14:41] Folder dihapus: C:\Users\sumarno\AppData\Local\Temp\B3AE569D-36BE-47A9-90F3-E1047A44FFAA
+[2025-02-21 17:14:41] Folder dihapus: C:\Users\sumarno\AppData\Local\Temp\D55C4052-1ABE-4C62-9692-24C9DDC0B267
+[2025-02-21 17:14:41] Gagal menghapus C:\Users\sumarno\AppData\Local\Temp\dd10afab-7d98-4cbe-ae1d-9b38b499bd3e.tmp: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\sumarno\\AppData\\Local\\Temp\\dd10afab-7d98-4cbe-ae1d-9b38b499bd3e.tmp'
+[2025-02-21 17:14:41] Gagal menghapus C:\Users\sumarno\AppData\Local\Temp\f884fc59-078e-404f-83ad-31809aa46a57.tmp: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\sumarno\\AppData\\Local\\Temp\\f884fc59-078e-404f-83ad-31809aa46a57.tmp'
+[2025-02-21 17:14:41] Folder dihapus: C:\Users\sumarno\AppData\Local\Temp\F9CA9159-966C-4E48-8010-FFF9B95B68B3
+[2025-02-21 17:14:41] Gagal menghapus C:\Users\sumarno\AppData\Local\Temp\fc72840a-6383-4a2d-a5af-2108caf0b6d3.tmp: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\sumarno\\AppData\\Local\\Temp\\fc72840a-6383-4a2d-a5af-2108caf0b6d3.tmp'
+[2025-02-21 17:14:41] Folder dihapus: C:\Users\sumarno\AppData\Local\Temp\FE628A3C-3689-482F-9DDA-36403AD885C3
+[2025-02-21 17:14:41] Folder dihapus: C:\Users\sumarno\AppData\Local\Temp\_avast_
+[2025-02-21 17:14:42] Pembersihan temporary files selesai.
+[2025-02-21 17:19:32] Memulai pembersihan Prefetch...
+[2025-02-22 08:02:46] Memulai pembersihan Prefetch...
+[2025-02-22 08:05:48] Memulai pembersihan Prefetch...
+[2025-02-22 08:05:54] File dihapus: C:\Windows\Prefetch\133.0.6943.127_CHROME_INSTALL-D7CB7FBA.pf
+[2025-02-22 08:05:54] File dihapus: C:\Windows\Prefetch\7ZR.EXE-44525644.pf
+[2025-02-22 08:05:54] File dihapus: C:\Windows\Prefetch\7ZR.EXE-CABD4707.pf
+[2025-02-22 08:05:54] File dihapus: C:\Windows\Prefetch\AgAppLaunch.db
+[2025-02-22 08:05:54] File dihapus: C:\Windows\Prefetch\AgCx_SC4.db
+[2025-02-22 08:05:54] File dihapus: C:\Windows\Prefetch\AgCx_SC5.db
+[2025-02-22 08:05:54] File dihapus: C:\Windows\Prefetch\AgGlFaultHistory.db
+[2025-02-22 08:05:54] File dihapus: C:\Windows\Prefetch\AgGlFgAppHistory.db
+[2025-02-22 08:05:54] File dihapus: C:\Windows\Prefetch\AgGlGlobalHistory.db
+[2025-02-22 08:05:54] File dihapus: C:\Windows\Prefetch\AgGlUAD_P_S-1-5-21-3040923110-2424399594-3673184958-1002.db
+[2025-02-22 08:05:54] File dihapus: C:\Windows\Prefetch\AgGlUAD_S-1-5-21-3040923110-2424399594-3673184958-1002.db
+[2025-02-22 08:05:55] File dihapus: C:\Windows\Prefetch\AGGREGATORHOST.EXE-963948F7.pf
+[2025-02-22 08:05:55] File dihapus: C:\Windows\Prefetch\AgRobust.db
+[2025-02-22 08:05:55] File dihapus: C:\Windows\Prefetch\APPLICATIONFRAMEHOST.EXE-4CE44C83.pf
+[2025-02-22 08:05:55] File dihapus: C:\Windows\Prefetch\APPXINVENTORY.EXE-B23E9298.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\APPXINVENTORY.EXE-D66814A9.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\APPXINVENTORY.EXE-F8C82E67.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\ASWENGSRV.EXE-25723309.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\ASWIDSAGENT.EXE-9EA0A023.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\ASWOFFERTOOL.EXE-47C249BB.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\AUDIODG.EXE-9848A323.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\AVASTBROWSERUPDATE.EXE-2A50C3CE.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\AVASTUI.EXE-DC11C263.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\AVASTUI.EXE-DC11C264.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\AVASTUI.EXE-DC11C26A.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\AVBUGREPORT.EXE-E4EA699E.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\AVLAUNCH.EXE-544F062B.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\BACKGROUNDTASKHOST.EXE-01393145.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\BACKGROUNDTASKHOST.EXE-0D4D080E.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\BACKGROUNDTASKHOST.EXE-10C42F8D.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\BACKGROUNDTASKHOST.EXE-11978501.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\BACKGROUNDTASKHOST.EXE-3FA131A8.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\BACKGROUNDTASKHOST.EXE-57013F88.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\BACKGROUNDTASKHOST.EXE-5B0BD6F2.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\BACKGROUNDTASKHOST.EXE-68D3FDC7.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\BACKGROUNDTASKHOST.EXE-9036930E.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\BACKGROUNDTASKHOST.EXE-945CDCBF.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\BACKGROUNDTASKHOST.EXE-A921B67D.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\BACKGROUNDTASKHOST.EXE-C19B50E5.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\BACKGROUNDTASKHOST.EXE-D023F642.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\BACKGROUNDTRANSFERHOST.EXE-0C1390EC.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\BACKGROUNDTRANSFERHOST.EXE-82CC4D97.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\BROWSERHOST.EXE-75ADB7D9.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\CCXPROCESS.EXE-2C766848.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\CHROME.EXE-039F1FC9.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\CHROME.EXE-039F1FCA.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\CHROME.EXE-039F1FCB.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\CHROME.EXE-039F1FCC.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\CHROME.EXE-039F1FCD.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\CHROME.EXE-039F1FD1.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\CMD.EXE-2EB3E6E2.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\CMD.EXE-CD245F9E.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\CODE-TUNNEL.EXE-3F86974A.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\CODE.EXE-553FCB72.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\CODE.EXE-553FCB73.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\CODE.EXE-553FCB74.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\CODE.EXE-553FCB75.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\CODE.EXE-553FCB76.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\CODE.EXE-553FCB7A.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\CODESETUP-STABLE-E54C774E0ADD-52D43AF2.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\CODESETUP-STABLE-E54C774E0ADD-99831C79.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\COMPATTELRUNNER.EXE-93B5AB09.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\COMPPKGSRV.EXE-6D25F3E6.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\CONDA.EXE-3C3F9F7D.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\CONHOST.EXE-F98A1078.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\CONSENT.EXE-2D674CE4.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\CRASHPAD_HANDLER.EXE-9472AA39.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\CRASHPAD_HANDLER.EXE-F528409B.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\CSRSS.EXE-A7A2B218.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\CTFMON.EXE-5E6E7DF5.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\DDVCOLLECTORSVCAPI.EXE-D9193493.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\DDVDATACOLLECTOR.EXE-68278657.pf
+[2025-02-22 08:05:56] File dihapus: C:\Windows\Prefetch\DDVRULESPROCESSOR.EXE-AA7D07A1.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\DEFRAG.EXE-22AD8A37.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\DELLCOMMANDUPDATE.EXE-8DC218E7.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\DLLHOST.EXE-08D3C038.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\DLLHOST.EXE-34E3C159.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\DLLHOST.EXE-5C8817D4.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\DLLHOST.EXE-61B55BDB.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\DLLHOST.EXE-633DA71F.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\DLLHOST.EXE-6A829A47.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\DLLHOST.EXE-6E31253B.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\DLLHOST.EXE-8E84E9F3.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\DLLHOST.EXE-BF26B840.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\DLLHOST.EXE-C2520342.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\DLLHOST.EXE-E5221F10.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\DOCKER.EXE-68E92C00.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\DRVINST.EXE-26FFA444.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\DRVUPDATE.EXE-008A4990.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\DRVUPDATE.EXE-A17ACEC1.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\DRVUPDATE.EXE-C3387E3F.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\DSAPI.EXE-C04CDB44.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\DWM.EXE-F29FE9E2.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\ELEVATION_SERVICE.EXE-011B44C6.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\ELEVATION_SERVICE.EXE-4035F503.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\ELEVATION_SERVICE.EXE-4D0057B7.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\ELEVATION_SERVICE.EXE-E17B9158.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\ENGSUP.EXE-97C13E40.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\ENGSUP.EXE-AD9D6AA3.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\ENGSUP.EXE-EE531171.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\EPICGAMESLAUNCHER.EXE-996AF326.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\EPICWEBHELPER.EXE-58053CF7.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\EPICWEBHELPER.EXE-58053CFD.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\EPP.EXE-A82580F2.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\EXPAND.EXE-CFCB0A1A.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\EXPLORER.EXE-03C49D11.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\EXTDRVRINV.EXE-157070A0.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\EXTDRVRINV.EXE-A610F7D2.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\EXTDRVRINV.EXE-FFD8B4C9.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\FILECOAUTH.EXE-1EEBC787.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\FILECOAUTH.EXE-363BD8C6.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\FILECOAUTH.EXE-CD4469AF.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\FILESYNCCONFIG.EXE-280B3849.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\FIRMWARETPM.EXE-474E9674.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\FIRMWARETPM.EXE-64701B53.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\FIRMWARETPM.EXE-DCDB9C12.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\FONTDRVHOST.EXE-D0C00127.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\GAMEBAR.EXE-447CAF25.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\GAMINGSERVICES.EXE-7FC84857.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\GAMINGSERVICESNET.EXE-ABC3F9B2.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\GOOGLEPLAYGAMESSERVICES.EXE-EB831E0A.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\GOOGLEPLAYGAMESSERVICESINSTAL-5CC22C4C.pf
+[2025-02-22 08:05:57] File dihapus: C:\Windows\Prefetch\GOOGLEPLAYGAMESSERVICESINSTAL-B0E241B5.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\HPE-25.1.1296.3-CIP.EXE-A90BB1AC.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\HTTPD.EXE-E3CFA106.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\ICACLS.EXE-B1BB271D.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\ICARUS.EXE-2623752F.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\ICARUS.EXE-455D9845.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\IGFXEM.EXE-92A0CDA4.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\INTELPTTEKRECERTIFICATION.EXE-109A8CD6.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\INVCOL.EXE-1E8AE613.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\INVCOL.EXE-60DF01AA.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\INVCOL.EXE-CB4BC15C.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\INVCOLPC.EXE-0CB3BF4F.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\JAVAWS.EXE-98EE1172.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\JHI_SERVICE.EXE-9CD021CB.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\JP2LAUNCHER.EXE-2E5F137C.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\JUCHECK.EXE-3F4853CB.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\JUSCHED.EXE-4B303C70.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\Layout.ini
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\LOCKAPP.EXE-E8A44A20.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\LOGONUI.EXE-E35F76FB.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MICROSOFT.SHAREPOINT.EXE-1C948987.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MICROSOFTEDGEUPDATE.EXE-30812F03.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MOBSYNC.EXE-A02D9B49.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MOFCOMP.EXE-826B4AA6.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MOUSOCOREWORKER.EXE-2038C868.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MPCMDRUN.EXE-E4B7F8E3.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MS-TEAMSUPDATE.EXE-6DC5FEEB.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MS-TEAMSUPDATE.EXE-E015E090.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MSCORSVW.EXE-55FE3087.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MSCORSVW.EXE-D593A5D9.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MSEDGE.EXE-F6B373B0.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MSEDGE.EXE-F6B373B1.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MSEDGE.EXE-F6B373B2.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MSEDGE.EXE-F6B373B3.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MSEDGE.EXE-F6B373B7.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MSEDGEWEBVIEW2.EXE-08646015.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MSEDGEWEBVIEW2.EXE-08646016.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MSEDGEWEBVIEW2.EXE-08646017.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MSEDGEWEBVIEW2.EXE-08646018.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MSEDGEWEBVIEW2.EXE-08646019.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MSEDGEWEBVIEW2.EXE-0864601D.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MSEDGEWEBVIEW2.EXE-C2383CC2.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MSEDGEWEBVIEW2.EXE-C2383CC3.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MSEDGEWEBVIEW2.EXE-C2383CC4.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MSEDGEWEBVIEW2.EXE-C2383CC5.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MSEDGEWEBVIEW2.EXE-C2383CC6.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MSEDGEWEBVIEW2.EXE-C2383CCA.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MSEDGEWEBVIEW2.EXE-C8BBCDCB.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MSEDGEWEBVIEW2.EXE-C8BBCDCD.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MSEDGEWEBVIEW2.EXE-C8BBCDD2.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MSIEXEC.EXE-7D20CFB0.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MSIEXEC.EXE-BAE57A74.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\MYSQLD.EXE-D20F4F40.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\NETSH.EXE-59756CAC.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\NGEN.EXE-383F81D5.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\NGEN.EXE-A8DBB043.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\NGENTASK.EXE-4DB88ADA.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\NGENTASK.EXE-CD4E002C.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\NVMEHOSTMETADATA.EXE-9BC0F2AD.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\NVMEHOSTMETADATA.EXE-AABD7D26.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\NVMEHOSTMETADATA.EXE-E2E07C7F.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\ONEDRIVE.EXE-15738D78.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\ONEDRIVE.EXE-903CEE60.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\ONEDRIVESETUP.EXE-DA1BCEC0.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\Op-SEARCHAPP.EXE-AC164F70-00000002.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\OPENWITH.EXE-BA0DC300.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\PCDRSYSINFOBLUETOOTH.P5X-D9759328.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\PCDRSYSINFOCOMMUNICATION.P5X-C64723F8.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\PCDRSYSINFOCPU_X86.P5X-7D917603.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\PCDRSYSINFOCSMI.P5X-6F3E937E.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\PCDRSYSINFODIRECT.P5X-7E8F7621.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\PCDRSYSINFOPERIPHERAL.P5X-E340288E.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\PCDRSYSINFOSMBIOS2.P5X-7C5AFD9D.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\PCDRSYSINFOSTORAGE.P5X-36B47F7B.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\PCDRSYSINFOSYSTEMBOARD.P5X-D4E3CCE3.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\PCDRSYSINFOVIDEOCAPTURE.P5X-E5422AF9.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\PERIPHERALFRMWINV.EXE-3942B28D.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\PERIPHERALFRMWINV.EXE-5DC3339E.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\PERIPHERALFRMWINV.EXE-90EAB68F.pf
+[2025-02-22 08:05:58] Gagal menghapus C:\Windows\Prefetch\PfPre_704af46b.mkd: [WinError 5] Access is denied: 'C:\\Windows\\Prefetch\\PfPre_704af46b.mkd'
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\PfPre_704bba48.mkd
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\PIP.EXE-6E3C0045.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\PNPUTIL.EXE-2450BF3E.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\POSTGRES.EXE-8F8369F7.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\POWERSHELL.EXE-022A1004.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\PRESENTATIONFONTCACHE.EXE-E2702CF2.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\PY.EXE-AE354CAE.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\PYTHON-3.13.2-AMD64.EXE-10C59ED0.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\PYTHON-3.13.2-AMD64.EXE-FEF1CEB1.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\PYTHON.EXE-2E2A739E.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\PYTHON.EXE-AD691DCA.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\PYTHONW.EXE-4C83A6A1.pf
+[2025-02-22 08:05:58] File dihapus: C:\Windows\Prefetch\RAVBG64.EXE-B555701F.pf
+[2025-02-22 08:05:59] Gagal menghapus C:\Windows\Prefetch\ReadyBoot: [WinError 5] Access is denied: 'C:\\Windows\\Prefetch\\ReadyBoot'
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\REG-MSI_INVENTORY.EXE-253524E9.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\REG-MSI_INVENTORY.EXE-49B5A5FA.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\REG-MSI_INVENTORY.EXE-7CDD28EB.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\REG.EXE-6A8B6960.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\ResPriHMStaticDb.ebd
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RG.EXE-40F85060.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RSAPPUI.EXE-75A628AF.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RSAPPUI.EXE-75A628B0.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RSAPPUI.EXE-75A628B1.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RSAPPUI.EXE-75A628B2.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RSAPPUI.EXE-75A628B7.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RSEXTENSIONHOST.EXE-7757EEDF.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RSHELPER.EXE-CC37C550.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RSLITMUS.A.EXE-36330DD1.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RTKNGUI64.EXE-9E7DB4C9.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RUNDLL32.EXE-81640945.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RUNDLL32.EXE-A3EE2396.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RUNDLL32.EXE-EED2899C.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RUNONCE.EXE-E874B0D0.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RUNTIMEBROKER.EXE-00E37B5B.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RUNTIMEBROKER.EXE-17E2786F.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RUNTIMEBROKER.EXE-27195D05.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RUNTIMEBROKER.EXE-2E0ED1A6.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RUNTIMEBROKER.EXE-46DC3064.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RUNTIMEBROKER.EXE-4E9F0615.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RUNTIMEBROKER.EXE-525F0ACE.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RUNTIMEBROKER.EXE-6744252C.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RUNTIMEBROKER.EXE-6F224720.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RUNTIMEBROKER.EXE-707D0638.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RUNTIMEBROKER.EXE-8602C0BA.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RUNTIMEBROKER.EXE-8A3236BA.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RUNTIMEBROKER.EXE-8E576F3D.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RUNTIMEBROKER.EXE-9422AC17.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RUNTIMEBROKER.EXE-9D350CA5.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RUNTIMEBROKER.EXE-A12B7B56.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RUNTIMEBROKER.EXE-B2143A30.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RUNTIMEBROKER.EXE-B694F3F8.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RUNTIMEBROKER.EXE-B8FF82E5.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RUNTIMEBROKER.EXE-C09BD32F.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RUNTIMEBROKER.EXE-E7D1C1AB.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RUNTIMEBROKER.EXE-EC61A388.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\RUNTIMEBROKER.EXE-F8257A3E.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\SALOMANDOCK.EXE-68F4EAFA.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\SALOMANDOCK.EXE-86166FD9.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\SALOMANDOCK.EXE-FE81F098.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\SCHTASKS.EXE-BA1E321E.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\SCSIUPDATE.EXE-502F428F.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\SCSIUPDATE.EXE-A9F6FF86.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\SCSIUPDATE.EXE-BF8EBB5D.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\SDIAGNHOST.EXE-D8BC1DC6.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\SEARCHAPP.EXE-65EA2C1D.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\SEARCHAPP.EXE-E3A7DFF2.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\SEARCHFILTERHOST.EXE-10E4267C.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\SEARCHPROTOCOLHOST.EXE-C6CFE2A8.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\SECURITYHEALTHSERVICE.EXE-35303265.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\SECURITYHEALTHSYSTRAY.EXE-88A1DB7B.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\SERVICEHOST.EXE-8A293C9A.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\SERVICESHELL.EXE-2698AC25.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\SETUP.EXE-2D9CB643.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\SETUP.EXE-2D9CB647.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\SETUP.EXE-6D44C0EC.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\SETUP.EXE-6D44C0F0.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\SETUP.EXE-B8BDB1B7.pf
+[2025-02-22 08:05:59] File dihapus: C:\Windows\Prefetch\SETUP.EXE-B8BDB1BB.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SGRMBROKER.EXE-57ED2310.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SHELLEXPERIENCEHOST.EXE-ED548678.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SIHCLIENT.EXE-89165619.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SIHOST.EXE-F66A4D44.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SMARTSCREEN.EXE-3A39E32D.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SMBIOSINFO.EXE-79380B53.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SMBIOSINFO.EXE-D2FFC84A.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SMBIOSINFO.EXE-E8978421.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SMSS.EXE-81AD91F0.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SOFTWARECOMPONENTINV.EXE-58BCE8AC.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SOFTWARECOMPONENTINV.EXE-667297E5.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SOFTWARECOMPONENTINV.EXE-AA2BB253.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SPLWOW64.EXE-853292E2.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SPPSVC.EXE-7B160CA5.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SSDUPDATE.EXE-7F784B1F.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SSDUPDATE.EXE-A135FA9D.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SSDUPDATE.EXE-DE87C5EE.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\STARTMENUEXPERIENCEHOST.EXE-94F1C864.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SUPPORTASSISTAGENT.EXE-82A2CD20.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SUPPORTASSISTAPPWIRE.EXE-C97F476D.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-06DB112E.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-0899ADC1.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-1416BA0D.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-1CC418BA.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-2A6F3879.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-38BE90DD.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-38F65F84.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-3A345609.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-43212467.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-469DC83C.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-46FACB76.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-4CAD656A.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-503958B3.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-51B8BAFB.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-558D6B62.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-576FFE64.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-60F5DE2F.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-64E9D902.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-7218DCB2.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-72547F04.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-777471D2.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-7A0C4A3D.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-824BF13F.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-874EA4F5.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-8A29D439.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-9697D452.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-9EB1DAB8.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-AA40047E.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-AB62BD9E.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-AF818DC7.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-B00008EC.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-B084E248.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-B0B4B25A.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-B1DC062C.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-B34B6FD4.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-C097EE5C.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-C26DD1EF.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-C5EEC15E.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-CB16EF8B.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-D8E52163.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-DF094E96.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-E3079650.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-E6789326.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-E89B558C.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-E96C86DE.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-F71A6821.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SVCHOST.EXE-FEA1FDBE.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SWUSB.EXE-D1CEF738.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SYSTEMIDLECHECK.EXE-D91BEB3C.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\SYSTEMSETTINGSBROKER.EXE-4BB8D329.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\TASKHOSTW.EXE-1EAF2222.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\TEXTINPUTHOST.EXE-45435AF9.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\TIWORKER.EXE-690BF18E.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\TRUSTEDINSTALLER.EXE-B018CCBF.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\UIHOST.EXE-5FFA0EDB.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\UNSECAPP.EXE-454AB5C0.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\UPDATER.EXE-37A3045D.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\UPDATER.EXE-5DDE26A0.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\UPFC.EXE-55CA7C00.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\URBANVPN-GUI.EXE-7AAC458B.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\URBANVPNUPDATER.EXE-7103B098.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\URBANVPNUPDATER.EXE-75F77001.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\USBUPDATE.EXE-001CED4E.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\USBUPDATE.EXE-A10D727F.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\USBUPDATE.EXE-C2CB21FD.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\USERINIT.EXE-7FD17ED1.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\USEROOBEBROKER.EXE-F817667C.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\VIDEO.UI.EXE-59D39015.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\VSCE-SIGN.EXE-863AB2AC.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\VSSVC.EXE-206E55B3.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\WAVESSVC64.EXE-E3BFC75E.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\WERFAULT.EXE-44194444.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\WINDOWSPACKAGEMANAGERSERVER.E-C5ECD932.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\WINLOGON.EXE-0D9AB72B.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\WINWORD.EXE-2437DA78.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\WLRMDR.EXE-8CD26CA2.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\WMIADAP.EXE-7D63BB4C.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\WMIAPSRV.EXE-CF150EEA.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\WMIPRVSE.EXE-0C8A533A.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\WMIPRVSE.EXE-BB49B536.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\WPR.EXE-202316BF.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\WSL.EXE-DC780B58.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\WUAPIHOST.EXE-6D06E4D6.pf
+[2025-02-22 08:06:00] File dihapus: C:\Windows\Prefetch\XAMPP-CONTROL.EXE-F4DA9E27.pf
+[2025-02-22 08:06:06] Pembersihan Prefetch selesai.
+[2025-02-22 08:06:14] Memulai pembersihan Recent Files...
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\01b0359c-e04f-4d3b-8461-1e5ac77691b7.jpeg.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\091.jpg.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\1 (1).png.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\1.1.6-packet-tracer-tutored-activitys-logical-and-physical-mode-exploration.pksz.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\1.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\13 33 5 2 1 23-98060313.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\192.168.10.12.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\1d2bab8fe007cc20cb3c1f6217c9c780.jpeg.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\2.1.1_packet_tracer_create_a_simple_network.pka.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\2023-11-18.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\20ff3ceb-ba50-4b81-a68f-67016f016e47.jpeg.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\281605a7-e3ac-4f9b-8af5-5365556c9a1f.jpeg.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\4615.jpg.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\6a1d93e0-374d-4292-8daf-232eeb11baef.jpeg.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\a0606c19-a250-4c42-b7f8-df25d9948501.jpeg.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Adobe Scan 10 Nov 2024_1.jpg.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Adobe Scan 10 Nov 2024_1.pdf.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ANTIBIOTIK.docx.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Automasi & Matematika Diskret.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Automasi.lnk
+[2025-02-22 08:06:15] Gagal menghapus C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations: [WinError 5] Access is denied: 'C:\\Users\\sumarno\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations'
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Black & White Simple Minimalist Scholarship Resume (4).lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Blue and White Professional Corporate Resume.png.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\c9503f69-f40b-4744-ae6c-e901d79c4f70.jpeg.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\capture surat.PNG.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\cc8711fd-b3a7-4b82-9491-114374696f41.jpeg.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\cdddcebe-06d8-473c-bf55-039c61e66d70.jpeg.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Coklat-Berkah (2).lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Coklat-Berkah (3).lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Coklat-Berkah.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\combinepdf.pdf.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Cover Buku Obat Formularium RSWK2.jpg.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\CPNS.lnk
+[2025-02-22 08:06:15] Gagal menghapus C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations: [WinError 5] Access is denied: 'C:\\Users\\sumarno\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\CustomDestinations'
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\CV  Sri Mulyanti P.N.pdf.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\CV - Sri Mulyanti P.N.pdf.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\CV - Sri Mulyanti P.N.png.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\CV Data Analyst.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\CV It Support.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\DAFTAR OBAT DAN BMHP EMERGENCY KIT.xlsx.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\DAFTAR OBAT RSU ARKA 2024.xls.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\desktop.ini
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\dfd.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Dokumen Pita.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\emerge.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\f8830858-60b3-429b-86c2-00161b76310a.jpeg.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\File Raihan (2).lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\File Raihan (3).lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\File Raihan (4).lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\File Raihan (5).lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\File Raihan (6).lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\File Raihan (7).lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\File Raihan (8).lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\File Raihan.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\FILM & MOVIE (2).lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\FORMULARIUM RUMAH SAKIT 2024.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Formulir-Pendaftaran.docx.lnk
+[2025-02-22 08:06:15] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\form_Pengadaan Barang_v1_user.docx.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Gambar.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Gundam1.webp.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Gundam3.jpeg.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\GundamStore (2).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\GundamStore (3).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\GundamStore.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Hapus instalan program (2).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Hapus instalan program (3).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Hapus instalan program (4).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Hapus instalan program (5).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Hapus instalan program (6).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Hapus instalan program (7).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Hapus instalan program.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Hijau Modern LinkedIn Banner Personal.png.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\HTML (2).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\https--account.microsoft.com-ref=settings&Platform=Windows10.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\https--go.microsoft.com-fwlink-LinkId=2156761.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\i408837v1n1_Packet_Tracer_Quiz(1).pka.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\i408837v1n1_Packet_Tracer_Quiz.pka.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Ijazah D3 Farmasi_Sri Mulyanti Puspita Ningrum.pdf.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ijazah.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\image-10.png.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\image-11.png.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\image-12.png.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\image-13.png.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\image-14.png.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\image-15.png.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\image-16-1024x482.png.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\image-17.png.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\image-18.png.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\image-19-1024x560.png.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\image-20-1024x531.png.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\image-9.png.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\img.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\IMG_20230505_0008 (1).jpg.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\IMG_20230505_0008.jpg.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\IMG_20230505_0008.pdf.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\IMG_20240211_113223-min.jpg.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\IMG_20240211_113223.jpg.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\IMG_20250108_112033.jpg.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\IMG_20250120_043317.jpg.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\index.html (2).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Internet.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Jaringan dan Internet.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Jurassic_World_Evolution_Repack.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Kamen Rider Kuuga (2).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Kamen Rider Kuuga Eps - 20.mp4.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Kamen Rider Kuuga.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Kamen Rider W (2).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Kamen Rider W (3).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Kamen Rider W.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\KARTU KELUARGA.jpeg.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Kasih Group.docx.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\KATA PENGANTAR FORMULARIUM TAHUN 2024.doc.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\KEBIJAKAN PENGELOLAAN DAN PENGGUNAAN PERBEKALAN FARMASI DI RS ARYA KAMUNING.docx.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\KTP_Sri Mulyanti Puspita Ningrum.jpg.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\LAMPIRAN LAMPIRAN.doc.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Lampiran_IV_Format_Surat_Lamaran_Penerimaan_PPPK_2024.docx.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Lampiran_VI_Format_Surat_Keterangan_Pengalaman_Kerja_PPPK_2024.docx.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Lampiran_V_Format_Surat_Pernyataan_Penerimaan_PPPK_2024.docx.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\LIST KEBUTUHAN UNIT PELAYANAN FARMASI ALKES.docx.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Market Place.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\mmj dolphin.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\MO&WESP VIII (2).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Mobile & Augmented Reality Praktik (2).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Mobile & Augmented Reality Praktik (3).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Mobile & Augmented Reality Praktik.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (10).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (11).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (12).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (13).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (14).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (15).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (16).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (17).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (18).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (19).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (2).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (20).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (21).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (22).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (23).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (24).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (25).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (26).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (27).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (28).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (29).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (3).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (30).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (31).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (32).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (33).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (34).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (35).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (36).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (37).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (38).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (39).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (4).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (40).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (41).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (42).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (43).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (44).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (45).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (46).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (47).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (48).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (49).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (5).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (50).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (51).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (52).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (53).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (54).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (6).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (7).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (8).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--- (9).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay---.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--kglcheck- (2).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--kglcheck- (3).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--kglcheck-.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--startuptips-pid=2340&WindowId=656588.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--startuptips-pid=97248&WindowId=590764.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-gamingoverlay--startuptips-pid=9908&WindowId=132186.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-photosspareprocess-viewer (2).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-photosspareprocess-viewer (3).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-photosspareprocess-viewer (4).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-photosspareprocess-viewer.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-screensketchedit&source=Toast&isTemporary=true&sharedAccessToken=4044CBCB-E33E-422A-83A7-1FE1D026DDA1&secondarySharedAccessToken=C4E0158D-81AF-4836-8628-680FC608B981.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-screensketchedit&source=Toast&isTemporary=true&sharedAccessToken=7E4CC695-14C2-4D98-8E77-3166E8D51916&secondarySharedAccessToken=6F069B79-241D-42F0-8FD8-05D24EBC669A.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-settingsnetwork (2).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-settingsnetwork (3).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-settingsnetwork-ethernet.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-settingsnetwork.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-settingswindowsupdate (2).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-settingswindowsupdate (3).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\ms-settingswindowsupdate.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Musik.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Nama  Kelas  Mata Pelajaran  (1).zip.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\nama obat.docx.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Network and Sharing Center.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\NURUL AENI,S.Tr.Keb.png.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Objek 3D.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\One Piece.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\PAS PHOTO.jpg.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\PasPhoto_background merah_Sri Mulyanti Puspita Ningrum.jpg.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Pas_Photo.jpg.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\PC ini.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\pdf-165-form-nicu.docx.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\pdf-div-class-2qs3tf-truncatedtext-module-wrapper-fg1km9p-classtruncatedtext-module-lineclamped-85ulhh-style-max-lines5monitor-harian-ruang-perinatologi-p-div.docx.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\pdf-icu-ukuran-kertas-a2.docx.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\perinatologi.docx.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Photo_1713402277009.png.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\PITA.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\PL.02.03_F.V_537057_2024.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\PPSSPP (2).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\PPSSPP (3).lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\PPSSPP.lnk
+[2025-02-22 08:06:16] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Program dan Fitur.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Projek.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\PT. LIPPO MALLS INDONESIA.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\REKAPAN PERMINTAAN KIT EMERGENCY.docx.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\responsi.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Resume Sri Mulyanti P N.pdf.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Resume Sri Mulyanti P.N.pdf.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Resume Sri Mulyanti Puspita Ningrum_RS Murni Teguh Ciledug.pdf.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\RS PERMATA KELUARGA SUMMARECON BEKASI.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\rs.jpeg.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Rumus Dasar Excel.docx.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Screenshot_2024-08-24-07-35-23-51_c37d74246d9c81aa0bb824b57eaf7062.jpg.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Screenshot_2024-08-24-07-35-23-51_c37d74246d9c81aa0bb824b57eaf7062.pdf.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\semester 4 (2).lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\semester 4 (3).lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\semester 4 (4).lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\semester 4 (5).lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\semester 4 (6).lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\semester 4 (7).lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\semester 4 (8).lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\semester 4.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Semua Tugas.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Serkom.jpg.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Serkom.pdf.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Sertif PKL KF.jpg.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Sertif PKL KF.pdf.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Sertif PKL RS.jpg.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Sertif PKL RS.pdf.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Sertifikat Pelatihan - Sri Mulyanti Puspita Ningrum.pdf.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Sertifikat Pelatihan.pdf.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Sertifikat Pelatihan.png.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Sertifikat Webinar.pdf.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\SK Komite FARMASI DAN TERAPI (KFT) EDIT.doc.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\SPK C (2).lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\SPK C (3).lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\SPK C (4).lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\SPK C.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\STAFF ONLY.docx.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\STR.jpg.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\STRANGE (2).lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\STRTTK.pdf.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\SURAT KEPUTUSAN DIREKTUR RUMAH SAKIT ARYA KAMUNING (KEBIJAKAN PENGELOLAAN DAN PENGGUNAAN PERBEKALAN FARMASI RUMAH SAKIT ARYA KAMUNING.docx.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\SURAT KEPUTUSAN DIREKTUR RUMAH SAKIT ARYA KAMUNING.docx.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Surat lamaran.docx.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\surat lamaran.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Surat Lamaran.pdf.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\surat pengalaman kerja.jpeg.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\surat pengalaman kerja.pdf.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Tampilkan perangkat dan printer (2).lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Tampilkan perangkat dan printer.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\TEK - AR VII (2).lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\TEK - AR VII (3).lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\TEK - AR VII.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\temporary.py.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Transkrip.pdf.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\TTD PITA.jpg.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\u.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Unduhan (2).lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Unduhan.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Video (2).lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Video.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\WhatsApp Image 2024-12-27 at 07.41.52.jpeg.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\Windows Defender Firewall.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\windowsdefender--threat-.lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\XboxGames (2).lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\XboxGames (3).lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\XboxGames (4).lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\XboxGames (5).lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\XboxGames (6).lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\XboxGames (7).lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\XboxGames (8).lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\XboxGames (9).lnk
+[2025-02-22 08:06:17] File dihapus: C:\Users\sumarno\AppData\Roaming\Microsoft\Windows\Recent\XboxGames.lnk
+[2025-02-22 08:06:19] Pembersihan Recent Files selesai.
