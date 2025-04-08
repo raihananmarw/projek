@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aplikasi Cuaca</title>
+    <link rel="stylesheet" href="css/style.css">
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+</head>
+<body>
+    <div id="weather-container">
+        <h1>Informasi Cuaca Saat Ini</h1>
+        <button id="dark-mode-toggle">🌙 Mode Gelap</button>
+        <input type="text" id="city-input" placeholder="Masukkan Nama Kota" />
+        <button id="search-btn">Cari</button>
+        
+        <div id="weather-info">
+            <p id="temperature"></p>
+            <p id="condition"></p>
+            <p id="humidity"></p>
+            <p id="wind"></p>
+        </div>
+
+        <div id="forecast-container">
+            <h2>Perkiraan Cuaca 5 Hari</h2>
+            <div id="forecast"></div>
+        </div>
+    </div>
+        
+    <!-- <img id="weather-icon" class="weather-icon" src="" alt="Ikon Cuaca"> -->
+
+    <div id="map"></div>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
