@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asset List</title>
+</head>
+<body>
+    <h1>Asset List</h1>
+    <ul>
+        {% for asset in assets %}
+            <li>{{ asset.name }} - <a href="{% url 'asset_detail' asset.pk %}">View</a></li>
+        {% endfor %}
+    </ul>
+    <a href="{% url 'asset_create' %}">Add New Asset</a>
+</body>
+</html>
